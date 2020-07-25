@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **FernandesMF/FernandesMF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +9,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey there! :D
+
+I'm Mário Fernandes (he/his), I am a physicist and also a data scientist!
+
+I currently work at ION Sistemas, and I am also about to finish my PhD in quantum information/computation.
+
+I have been learning machine learning algorithms and python, and I think I fell in love :heartbeat:
