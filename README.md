@@ -19,3 +19,5 @@ I'm Mário Fernandes (he/his), I am a physicist and also a data scientist!
 I currently work at ION Sistemas, and I am also about to finish my PhD in quantum information/computation.
 
 After being hired, I have been studying machine learning algorithms and python, and I think I fell in love :heartbeat:
+
+I'm always eager to leran new things!
