@@ -20,4 +20,4 @@ I currently work at ION Sistemas, and I am also about to finish my PhD in quantu
 
 After being hired, I have been studying machine learning algorithms and python, and I think I fell in love :heartbeat:
 
-I'm always eager to leran new things!
+I'm always eager to learn new things!
