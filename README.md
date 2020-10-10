@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 
 Hey there! :D
 
-I'm Mário Fernandes (he/his), I am a physicist and also a data scientist!
+I'm Mário Fernandes (he/his), I am a physicist and also a machine learning engineer!
 
 I currently work at Via Varejo, and I am also about to finish my PhD in quantum information/computation.
 
-After being hired, I have been studying machine learning algorithms and python, and I think I fell in love :heartbeat:
+I have been studying machine learning algorithms, MLOps and python, and I am definitely in love :heartbeat:
 
 I'm always eager to learn new things!
