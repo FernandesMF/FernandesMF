@@ -16,8 +16,6 @@ Hey there! :D
 
 I'm Mário Fernandes (he/his), I am a physicist and also a machine learning engineer!
 
-I currently work at Via Varejo, and I am also about to finish my PhD in quantum information/computation.
-
-I have been studying machine learning algorithms, MLOps and python, and I am definitely in love :heartbeat:
+I currently work as a Machine Learning Engineer at Via Varejo, and I am also about to finish my PhD in quantum information/computation.
 
 I'm always eager to learn new things!
