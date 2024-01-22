@@ -16,6 +16,6 @@ Hey there! :D
 
 I'm Mário Fernandes (he/his), I am a physicist and also a developer.
 
-I currently work as a Software Engineer at Red Hat, and I recently finished my PhD in Quantum Information/Computation.
+I currently work as a Software Engineer at Red Hat, and I finished my PhD in Quantum Information/Computation back in 2022.
 
 See you around!
